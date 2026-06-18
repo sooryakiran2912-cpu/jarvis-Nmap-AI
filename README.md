@@ -56,8 +56,8 @@ JARVIS is a terminal-based AI assistant for Kali Linux that pairs LLM reasoning 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/jarvis-ai.git
-cd jarvis-ai
+git clone https://github.com/<your-username>/jarvis-Nmap-AI.git
+cd jarvis-Nmap-AI
 
 python3 -m venv venv
 source venv/bin/activate
@@ -98,7 +98,7 @@ On launch, JARVIS lists available microphones, lets you select one, and calibrat
 ## Project Structure
 
 ```
-jarvis-ai/
+jarvis-Nmap-AI/
 ├── jarvis.py         # Main assistant entry point
 ├── mic_debug.py       # Microphone diagnostics/testing utility
 ├── nmap_scanner.py    # Nmap-based network scanning module
