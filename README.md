@@ -56,7 +56,7 @@ JARVIS is a terminal-based AI assistant for Kali Linux that pairs LLM reasoning 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/jarvis-Nmap-AI.git
+git clone https://github.com/sooryakiran2912-cpu/jarvis-Nmap-AI.git
 cd jarvis-Nmap-AI
 
 python3 -m venv venv
